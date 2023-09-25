@@ -1,0 +1,16 @@
+1. chappie @gpt3_tgBot
+
+2. temperament 1 api1 @gpt3tgbot - Дефолтный GPT-3 Temperature 1
+TOKEN 5904516415:AAHL21ImS5Acnnm-lfBhRvjyy1my80y5cUk
+API Key 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
+
+3. release bot api2 @easygptbot - Релизный продукт
+TOKEN 5966015529:AAEWVcmoC8KhJ8MS0S7TdXuOsits93LSPPQ
+API Key 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
+
+4. debug bot ilya api3 @debugbotilyaapi3bot - Тестовая песочница
+TOKEN 5886491082:AAHrDrGLXjEFu1Cr1akX060ns0r1DRIAWSs
+API Key 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
+
+5.payment bot test @paymentbotbottestbot
+TOKEN 5668039202:AAGmWWnHdgdynOvbqCO7PzHXVXHT1_tJqvw

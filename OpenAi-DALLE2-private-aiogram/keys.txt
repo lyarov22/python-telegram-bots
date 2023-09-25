@@ -1,0 +1,3 @@
+Open Ai GPT-3 private via telebot
+API_KEY = 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
+BOT_TOKEN = 5860849830:AAGlB2dfM0A-T8erLdVz5FzaTcKEzp8BC_Y
